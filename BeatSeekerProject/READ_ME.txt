@@ -3,6 +3,12 @@ BeatSeeker requires Mac OS X.
 Place the MaxExternals in to the Max file path 
 (suggested: Applications->Max->Cycling'74->max-externals)
 
+To get these to work on github I've had to create a zip folder of these - there should be two:
+Beatseeker~.mxo
+and
+qm.plot.mxo (for limited graphics)
+
+
 Use the current beatseeker~.mxo object
 
 the beatseeker_v1.1~ is for instance older.
